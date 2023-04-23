@@ -13,5 +13,4 @@ int SumNumb(int m, int n)
 }
 Console.Write($"{SumNumb(1, 15)}");
 
-// SumNumb(1, 6);
 
